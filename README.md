@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @typicalabubakr
-- 👀 I’m interested in ...
+- 👀 I’m interested in healthcare and videography
 - 🌱 I’m currently learning react native 
 - 💞️ I’m looking to collaborate on vanilla js projects
 - 📫 How to reach me: @typicalabubakr on all social platforms
